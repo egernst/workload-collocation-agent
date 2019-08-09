@@ -99,7 +99,7 @@ Workload Collocation Agent requires configuration file.
 
 Build `Docker image <../Dockerfile>`_ and push to private repo. Then specify image inside
 the daemonset podspec to the pushed image.
-`Example definition DaemonSet <../manifest/daemonset.yaml>`_.
+`Example definition DaemonSet <../example/manifest/daemonset.yaml>`_.
 
 5. Run DaemonSet
 
